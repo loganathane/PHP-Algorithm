@@ -3,9 +3,6 @@
  * Implementation of bubble sort algorithm in PHP. 
  */
 
-/**
-* 
-*/
 class bsort
 {
   
